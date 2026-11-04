@@ -4,8 +4,8 @@
 This repository contains all analysis scripts for the paper "Perceived Negative 
 Emotions of the Target and the Regulator's Own Negative Emotions as Antecedents of
 Extrinsic Interpersonal Emotion Regulation" by Van der Jeught, H., Versyp, O., 
-Ceulemans, E., Kuppens, P., Kalokerinos, E., Verhees, M., Frérart, L., 
-Begum Kalkan, R., & Sels, L.
+Ceulemans, E., Kuppens, P., Kalokerinos, E. K., Verhees, M. W. F. T., Frérart, L., 
+Kalkan-Cengiz, R. B., & Sels, L.
 
 The study examines perceived negative emotions and the regulator's own negative 
 emotions as antecedents of extrinsic emotion regulation (IER) engagement, 
