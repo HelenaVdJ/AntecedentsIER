@@ -1,0 +1,26 @@
+{
+  "title": "AntecedentsIER: Analysis code for perceived and own negative emotions as antecedents of interpersonal emotion regulation in couples",
+  "upload_type": "software",
+  "description": "<p>This repository contains the R code used for the analyses in the manuscript \"Perceived negative emotions of the target and regulator's own negative emotions as antecedents of interpersonal emotion regulation\". The study examines whether a regulator's perception of their partner's negative emotions and the regulator's own negative emotions predict engagement in interpersonal emotion regulation in romantic couples. Data come from a laboratory conflict interaction with video-mediated recall and from a 14-day experience sampling study.</p><p>The code fits lagged multilevel models for indistinguishable dyads (within-person level) and applies the Truth and Bias model (West &amp; Kenny, 2011) to estimate person-level directional bias and projection bias, which are then used to predict mean interpersonal emotion regulation engagement (between-person level). All analyses use the nlme package in R. The data are not shared publicly because they contain sensitive personal information; they are available from the authors upon reasonable request.</p>",
+  "creators": [
+    {
+      "name": "Van der Jeught, Helena",
+      "affiliation": "Ghent University",
+      "orcid": "0009-0002-7658-173X"
+    }
+  ],
+  "keywords": [
+    "interpersonal emotion regulation",
+    "romantic relationships",
+    "couples",
+    "negative emotions",
+    "emotion perception",
+    "truth and bias model",
+    "experience sampling",
+    "dyadic data analysis",
+    "multilevel modeling",
+    "R"
+  ],
+  "license": "MIT",
+  "language": "eng"
+}
